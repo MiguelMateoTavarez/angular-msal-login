@@ -1,6 +1,6 @@
 # Angular MSAL
 
-This is a little project implementing the MSAL (Microsoft Authentication Library) with Angular 19 with Standalone components.
+This is a little project implementing the MSAL (Microsoft Authentication Library) with Angular 19 and Standalone components.
 
 ## Preparation
 Execute the next command to install all:
@@ -8,7 +8,7 @@ Execute the next command to install all:
 npm i
 #If you have problem with this, use the flag --force (npm i --force)
 ```
-After this you must complete the configuration in ```auth-config.ts``` replacing the next params:
+After this you must complete the configuration in ```auth-config.ts``` replacing the next parameters:
 ```text
 <CLIENT ID>
 <TENANT ID>
